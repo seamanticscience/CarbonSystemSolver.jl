@@ -1,4 +1,4 @@
-name = "SolveSAPHE"
+name = "CarbonSystemSolver"
 uuid = "7046701c-dacb-4b2b-a968-472423cfade6"
 authors = ["Jonathan Lauderdale"]
 version = "0.1.0"

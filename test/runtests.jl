@@ -1,6 +1,6 @@
-using SolveSAPHE
+using CarbonSystemSolver
 using Test
 
-@testset "SolveSAPHE.jl" begin
+@testset "CarbonSystemSolver.jl" begin
     # Write your tests here.
 end
